@@ -40,3 +40,17 @@ Notes:
 
 
 
+
+
+Phase 1 Completed:
+
+\- Firebase Auth (signup/login)
+
+\- Role-based authorization (USER/TRAINER/ADMIN)
+
+\- Trainer approval gating
+
+\- Firestore security rules (deny by default)
+
+\- Staging-first setup
+
